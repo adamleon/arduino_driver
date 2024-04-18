@@ -5,7 +5,7 @@ Remember to source the workspace
 Clone the serial repository
 ```
 https://github.com/joshnewans/serial
-``
+```
 and build it by following the installation instruction.
 
 # Testing the driver
